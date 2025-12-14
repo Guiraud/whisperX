@@ -1,0 +1,10 @@
+# WhisperX GUI Requirements
+# These are additional requirements for the GUI application
+
+# GUI Framework
+PyQt6>=6.4.0
+
+# Already in whisperx requirements:
+# torch
+# torchaudio
+# whisperx dependencies
